@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atharva Kulkarni</h1>
+<h1 align="center">Hello, I'm Atharva Kulkarni</h1>
 <h3 align="center">A software engineer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharva031" alt="atharva031" /></a> </p>
@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1rcJ2iIQ8mQizl7qCD9BzXdEJ_MoLanYX/view?usp=drive_link](https://drive.google.com/file/d/1rcJ2iIQ8mQizl7qCD9BzXdEJ_MoLanYX/view?usp=drive_link)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
