@@ -1,8 +1,6 @@
 <h1 align="center">Hello, I'm Atharva Kulkarni</h1>
 <h3 align="center">A software engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharva031" alt="atharva031" /></a> </p>
-
 - 🔭 I’m currently working on [Blackjack](https://github.com/Atharva031/Blackjack.git)
 
 - 🌱 I’m currently learning **JavaScript**
