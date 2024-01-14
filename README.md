@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **atharva.kulkarni031@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rcJ2iIQ8mQizl7qCD9BzXdEJ_MoLanYX/view?usp=drive_link](https://drive.google.com/file/d/1rcJ2iIQ8mQizl7qCD9BzXdEJ_MoLanYX/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1SyhJ5ugOhqkF_GtftnG7Kr32z9R-mwv1/view?usp=sharing]
+- (https://drive.google.com/file/d/1SyhJ5ugOhqkF_GtftnG7Kr32z9R-mwv1/view?usp=sharing)
 
 <p align="left">
 </p>
