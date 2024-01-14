@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Java, Python, PostgreSQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, Python, PostgreSQL**
 
 - 📫 How to reach me **atharva.kulkarni031@gmail.com**
 
