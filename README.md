@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Atharva Kulkarni</h1>
 <h3 align="center">A software engineer from India</h3>
 
-- 🔭 I’m currently working on [Blackjack](https://github.com/Atharva031/Blackjack.git)
+- 🔭 I’m currently working on [React]
 
 - 🌱 I’m currently learning **JavaScript**
 
