@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **atharva.kulkarni031@gmail.com**
 
-- 🎮 When I'm not coding, I'm playing **video games**, watching **movies & TV shows**, or going down rabbit holes learning **how films and shows are actually made**
+- 🎮 When I'm not coding, I'm playing **video games**, watching **movies & TV shows**, or learning **how films and shows are actually made**
 
 <br/>
 
