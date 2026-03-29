@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **DevOps, CI/CD, Java, Python, Shell Scripting, or anything Cloud**
 
-- 🚀 I recently built **SmartLoan** — a credit decision platform with JWT auth, a scoring engine, and a Jenkins CI/CD pipeline
-
 - 📫 How to reach me: **atharva.kulkarni031@gmail.com**
 
 - 🎮 When I'm not coding, I'm playing **video games**, watching **movies & TV shows**, or going down rabbit holes learning **how films and shows are actually made**
