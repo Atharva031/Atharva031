@@ -5,7 +5,7 @@
 
 - 🔭 I'm currently working as an **Assistant System Engineer at Tata Consultancy Services**, building CI/CD pipelines and automating infrastructure for large-scale production environments.
 
-- 🛠️ I work with **Azure DevOps, Docker, Kubernetes, Ansible, Jenkins, Spring Boot, and PostgreSQL**
+- 🛠️ I work with **Azure DevOps, Docker, Kubernetes, Ansible, Jenkins, Terraform, Spring Boot, and PostgreSQL**
 
 - 💬 Ask me about **DevOps, CI/CD, Java, Python, Shell Scripting, or anything Cloud**
 
